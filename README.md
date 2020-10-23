@@ -19,8 +19,10 @@
 
 ## Содержание
 
-  + [Установка](#Установка)
+  + [Установка](#yстановка)
   + [SegNet](#segnet)
+  + [U-Net](#unet)
+  + [Fast-SCNN](#fastscnn)
 
 ### Установка
 
@@ -94,7 +96,7 @@ python3 UNet.py --pretrain 1 --train 0
 
 Видео с наложенной маской:
 
-![alt text](./Samples/VideoPic.png)
+[![Alternate Text](./Samples/VideoPic.png)](https://youtu.be/lTUhEfnljds "Video on YouTube")
 
 ### Запуск
 
