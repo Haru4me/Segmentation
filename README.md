@@ -19,10 +19,10 @@
 
 ## Содержание
 
-  + [Установка](#yстановка)
-  + [SegNet](#segnet)
-  + [U-Net](#unet)
-  + [Fast-SCNN](#fastscnn)
+  + [Установка](#Установка)
+  + [SegNet](#SegNet)
+  + [U-Net](#U-Net)
+  + [Fast-SCNN](#Fast-SCNN)
 
 ### Установка
 
